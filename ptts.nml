@@ -1,5 +1,5 @@
 grf {
-    grfid: "NML\00";
+    grfid: "PTTS";
     name: string(STR_GRF_NAME);
     desc: string(STR_GRF_DESC);
     version: 0;

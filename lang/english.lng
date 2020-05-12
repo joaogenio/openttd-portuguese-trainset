@@ -1,7 +1,7 @@
 ##grflangid 0x01
 
-STR_GRF_NAME                   :Portuguese Train Set
-STR_GRF_DESC                   :{WHITE}The {LTBLUE}{TITLE} {WHITE}contains any trains that have or are currently circulating in Portugal. This set is not complete. Version: {LTBLUE}{VERSION}{WHITE}. Original graphics by {LTBLUE}João Génio ('Genix'){WHITE}. Code by {LTBLUE}João Génio ('Genix'){WHITE}. License:{LTBLUE}{WHITE}.
+STR_GRF_NAME                   :PTTS - Portuguese Train Set
+STR_GRF_DESC                   :{WHITE}The {LTBLUE}{TITLE} {WHITE}contains any trains that have or are currently circulating in Portugal. This set is not complete. Original graphics by {LTBLUE}João Génio ('Genix'){WHITE}. Code by {LTBLUE}João Génio ('Genix'){WHITE}.
 
 STR_ALFA1_NAME                 :CP 4000 'Alfa Pendular' Old Livery (Electric)
 STR_ALFA1_CANNOT_START         :... you cannot couple 2 'Alfa Pendular' EMU'S.
@@ -20,6 +20,3 @@ STR_MED56_NAME                 :Medway 5600 (Electric)
 
 STR_IC1_NAME                   :CP 'Intercity' 1st Class Passenger Car
 STR_IC2_NAME                   :CP 'Intercity' 2nd Class Passenger Car
-
-# VERSION ([major].[minor].[release].[build])
-# STR_GRF_DESCRIPTION :{}{GREEN}Version {LTBLUE}{VERSION} {GREEN}(March 27, 2018){}{}{WHITE}Code and graphics by {LTBLUE}João Génio {WHITE}("Genix3").
