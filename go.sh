@@ -9,7 +9,7 @@ echo "$STR1"
 nmlc -c --grf ptts.grf ptts.nml
 
 echo "$STR2"
-cp ptts.grf ~/.local/share/openttd/newgrf
+cp ptts.grf ~/.openttd/newgrf
 
 echo "$STR3"
 
