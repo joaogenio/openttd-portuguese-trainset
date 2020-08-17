@@ -48,7 +48,7 @@ OpenTTD:
 
 2.3 Usage
 ---------
-To see all trains in this set select year 2500, set "vehicles never expire" to true and
+To see all trains in this set select a high year (e.g. 2500), set "vehicles never expire" to true and
 enter any electic track depot.
 
 
@@ -57,7 +57,7 @@ enter any electic track depot.
 3 Known issues
 --------------
 
-This is a relatively recent NewGRF. No known issues so far.
+For future issues, please report on my github repository.
 
 
 ------------------------
@@ -74,8 +74,7 @@ locomotive, then one EMU from the northern part of Portugal then one EMU from th
 5 Frequently Asked Questions
 ----------------------------
 
-Q: Why is it that you don't have any FAQs?
-A: This is a relatively recent NewGRF.
+Future FAQ's will be listed here.
 
 
 
@@ -84,14 +83,14 @@ A: This is a relatively recent NewGRF.
 ---------
 
 Graphics:
-- João Génio ('Genix')
+- João Génio ('Genix3')
 
 Code:
-- João Génio ('Genix')
+- João Génio ('Genix3')
 
 Translations:
   English
-  - João Génio ('Genix')
+  - João Génio ('Genix3')
 
 
 
@@ -102,7 +101,7 @@ Translations:
 7.1 General enquiries
 ---------------------
 
-If you have any queries contact Genix via Private Message at www.tt-forums.net
+If you have any queries contact Genix3 via Private Message at www.tt-forums.net
 
 
 

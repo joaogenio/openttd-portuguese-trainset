@@ -1,3 +1,7 @@
+Version 0.0.8.1:
+	Jul 10th 2020
+	- Updated maximum version allowed for this NewGRF to work on future game updates.
+
 Version 0.0.8.0:
 	May 13th 2020
 	- Graphic improvements in CP 5600 and Medway 5600

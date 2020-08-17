@@ -1,5 +1,6 @@
 #!/bin/bash
-#this is a personal script
+
+# THIS IS A PERSONAL SCRIPT FOR COMPILING AND COPYING THE .GRF FILE TO MY GAME'S GRF'S DIRECTORY
 
 STR1=$'Compiling ptts.nml to ptts.grf\n'
 STR2=$'\nCopying/replacing ptts.grf to "~/.local/share/openttd/newgrf"...'
