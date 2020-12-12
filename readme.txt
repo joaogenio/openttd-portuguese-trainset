@@ -101,7 +101,7 @@ Translations:
 7.1 General enquiries
 ---------------------
 
-If you have any queries contact Genix3 via Private Message at www.tt-forums.net
+If you have any queries contact Genix via Private Message at www.tt-forums.net
 
 
 

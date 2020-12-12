@@ -1,7 +1,7 @@
 ##grflangid 0x01
 
 STR_GRF_NAME                   :PTTS - Portuguese Train Set
-STR_GRF_DESC                   :{WHITE}The {LTBLUE}{TITLE} {WHITE}contains any trains that have or are currently circulating in Portugal. This set is not complete. Original graphics by {LTBLUE}João Génio ('Genix'){WHITE}. Code by {LTBLUE}João Génio ('Genix'){WHITE}.
+STR_GRF_DESC                   :{WHITE}The {LTBLUE}{TITLE} {WHITE}contains any trains that have or are currently circulating in Portugal. This set is not complete. Original graphics by {LTBLUE}João Génio ('Genix3'){WHITE}. Code by {LTBLUE}João Génio ('Genix3'){WHITE}.
 
 STR_ALFA1_NAME                 :CP 4000 'Alfa Pendular' Old Livery (Electric)
 STR_ALFA1_CANNOT_START         :... you cannot couple 2 'Alfa Pendular' EMU'S.

@@ -1,3 +1,5 @@
+Version [Major.Minor.Maintenance.Patch]
+
 Version 0.0.8.1:
 	Jul 10th 2020
 	- Updated maximum version allowed for this NewGRF to work on future game updates.
