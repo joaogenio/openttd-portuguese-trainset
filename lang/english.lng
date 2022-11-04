@@ -1,22 +1,34 @@
 ##grflangid 0x01
 
-STR_GRF_NAME                   :PTTS - Portuguese Train Set
-STR_GRF_DESC                   :{WHITE}The {LTBLUE}{TITLE} {WHITE}contains any trains that have or are currently circulating in Portugal. This set is not complete. Original graphics by {LTBLUE}João Génio ('Genix3'){WHITE}. Code by {LTBLUE}João Génio ('Genix3'){WHITE}.
+STR_GRF_NAME                     :PTTS - Portuguese Train Set
+STR_GRF_DESC                     :{WHITE}The {LTBLUE}{TITLE} {WHITE}contains any trains that have or are currently circulating in Portugal. This set is not complete. Original graphics by {LTBLUE}João Génio ('Genix3'){WHITE}. Code by {LTBLUE}João Génio ('Genix3'){WHITE}.
 
-STR_ALFA1_NAME                 :CP 4000 'Alfa Pendular' Old Livery (Electric)
-STR_ALFA1_CANNOT_START         :... you cannot couple 2 'Alfa Pendular' EMU'S.
-STR_ALFA1_CANNOT_ATTACH_OTHER  :... this train can't be attached to different trains.
+STR_ALFA1_NAME                   :CP 4000 'Alfa Pendular' Old Livery (Electric)
+STR_ALFA1_CANNOT_START           :... you cannot couple 2 'Alfa Pendular' EMU'S.
+STR_ALFA1_CANNOT_ATTACH_OTHER    :... this train can't be attached to different trains.
 
-STR_ALFA2_NAME                 :CP 4000 'Alfa Pendular' New Livery (Electric)
-STR_ALFA2_CANNOT_START         :... you cannot couple 2 'Alfa Pendular' EMU'S.
-STR_ALFA2_CANNOT_ATTACH_OTHER  :... this train can't be attached to different trains.
+STR_ALFA2_NAME                   :CP 4000 'Alfa Pendular' New Livery (Electric)
+STR_ALFA2_CANNOT_START           :... you cannot couple 2 'Alfa Pendular' EMU'S.
+STR_ALFA2_CANNOT_ATTACH_OTHER    :... this train can't be attached to different trains.
 
-STR_3400_NAME                  :CP 3400 (Electric)
-STR_3400_CANNOT_START          :... train too long (max. 2 coupled CP 3400's).
-STR_3400_CANNOT_ATTACH_OTHER   :... this train can't be attached to different trains.
+STR_3400_NAME                    :CP 3400 (Electric)
+STR_3400_CANNOT_START            :... train too long (max. 2 coupled CP 3400's).
+STR_3400_CANNOT_ATTACH_OTHER     :... this train can't be attached to different trains.
 
-STR_5600_NAME                  :CP 5600 (Electric)
-STR_MED56_NAME                 :Medway 5600 (Electric)
+STR_5600_NAME                    :CP 5600 (Electric)
+STR_MED56_NAME                   :Medway 5600 (Electric)
 
-STR_IC1_NAME                   :CP 'Intercity' 1st Class Passenger Car
-STR_IC2_NAME                   :CP 'Intercity' 2nd Class Passenger Car
+STR_IC1_NAME                     :CP 'Intercity' 1st Class Passenger Car
+STR_IC2_NAME                     :CP 'Intercity' 2nd Class Passenger Car
+
+STR_3500old_NAME                 :CP 3500 Old Livery (Electric)
+STR_3500old_CANNOT_START         :... train too long (max. 2 coupled 3500's).
+STR_3500old_CANNOT_ATTACH_OTHER  :... this train can't be attached to different trains.
+
+STR_3500new_NAME                 :CP 3500 New Livery (Electric)
+STR_3500new_CANNOT_START         :... train too long (max. 2 coupled 3500's).
+STR_3500new_CANNOT_ATTACH_OTHER  :... this train can't be attached to different trains.
+
+STR_fer3500_NAME                 :Fertagus 3500 (Electric)
+STR_fer3500_CANNOT_START         :... train too long (max. 2 coupled 3500's).
+STR_fer3500_CANNOT_ATTACH_OTHER  :... this train can't be attached to different trains.

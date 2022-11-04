@@ -42,7 +42,7 @@ A NewGRF for OpenTTD that contains trains that have or are currently circulating
 2.2 Installation
 ----------------
 OpenTTD:
-  see http://wiki.openttd.org/NewGRF
+  see https://wiki.openttd.org/en/Manual/NewGRF
   This NewGRF is available from the ingame Online Content
 
 

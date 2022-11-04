@@ -1,4 +1,10 @@
-Version [Major.Minor.Maintenance.Patch]
+Version [Major.Minor.Patch]
+
+Version 0.9.0:
+	Nov 04th 2022
+	- Released 3 EMU's (CP 3500 with 2 liveries and Fertagus 3500).
+	- Fixed graphical error in CP 4000's menu sprite.
+	- Power corrections on some units.
 
 Version 0.0.8.1:
 	Jul 10th 2020
@@ -6,11 +12,11 @@ Version 0.0.8.1:
 
 Version 0.0.8.0:
 	May 13th 2020
-	- Graphic improvements in CP 5600 and Medway 5600
+	- Graphic improvements in CP 5600 and Medway 5600.
 
 Version 0.0.7.0:
 	May 12th 2020
-	- First release to the OpenTTD online content service BaNaNaS
-	- Released 2 EMU's (CP 4000 with 2 liveries and CP 3400)
-	- Released 1 Locomotive from 2 different companies (CP 5600 / Medway 5600)
-	- Released 1st and 2nd class cars from the portuguese intercity service (hauled by a CP 5600)
+	- First release to the OpenTTD online content service BaNaNaS.
+	- Released 2 EMU's (CP 4000 with 2 liveries and CP 3400).
+	- Released 1 Locomotive from 2 different companies (CP 5600 / Medway 5600).
+	- Released 1st and 2nd class cars from the portuguese intercity service (hauled by a CP 5600).
