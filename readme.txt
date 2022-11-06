@@ -57,7 +57,7 @@ enter any electic track depot.
 3 Known issues
 --------------
 
-For future issues, please report on my github repository.
+- No pantographs yet.
 
 
 ------------------------
