@@ -1,6 +1,6 @@
-Portuguese Trainset
+PTTS - Portuguese Train Set
 ===================================
-A NewGRF for OpenTTD that contains trains that have or are currently circulating in Portugal.
+A NewGRF for OpenTTD that contains trains that circulate(d) in Portugal.
 
 ----------
 0 Contents
@@ -26,7 +26,7 @@ A NewGRF for OpenTTD that contains trains that have or are currently circulating
 1 About
 -------
 
-A NewGRF for OpenTTD that contains trains that have or are currently circulating in Portugal.
+A NewGRF for OpenTTD that contains trains that circulate(d) in Portugal.
 
 
 
@@ -36,14 +36,14 @@ A NewGRF for OpenTTD that contains trains that have or are currently circulating
 
 2.1 Requirements
 ----------------
-- OpenTTD <1.9.3> or higher
+- OpenTTD <1.9.3> or higher.
 
 
 2.2 Installation
 ----------------
 OpenTTD:
-  see https://wiki.openttd.org/en/Manual/NewGRF
-  This NewGRF is available from the ingame Online Content
+  This NewGRF is available from the ingame Online Content.
+  See https://wiki.openttd.org/en/Manual/NewGRF.
 
 
 2.3 Usage
@@ -101,7 +101,7 @@ Translations:
 7.1 General enquiries
 ---------------------
 
-If you have any queries contact Genix via Private Message at www.tt-forums.net
+If you have any queries contact Genix via Private Message at www.tt-forums.net.
 
 
 
