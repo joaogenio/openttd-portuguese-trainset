@@ -18,8 +18,8 @@ STR_3400_CANNOT_ATTACH_OTHER     :... this train can't be attached to different 
 STR_5600_NAME                    :CP 5600 (Electric)
 STR_MED56_NAME                   :Medway 5600 (Electric)
 
-STR_IC1_NAME                     :CP 'Intercity' 1st Class Passenger Car
-STR_IC2_NAME                     :CP 'Intercity' 2nd Class Passenger Car
+STR_IC1_NAME                     :CP 'Intercity' 2nd Class Passenger Car
+STR_IC2_NAME                     :CP 'Intercity' 1st Class Passenger Car
 
 STR_3500old_NAME                 :CP 3500 Old Livery (Electric)
 STR_3500old_CANNOT_START         :... train too long (max. 2 coupled 3500's).

@@ -1,5 +1,11 @@
 Version [Major.Minor.Patch]
 
+Version 0.9.1:
+	Nov 08th 2022
+	- Revamped Purchase Sprites.
+	- Fixed 'Intercity' 1st and 2nd class cars.
+	- Fixed sprite lighting and alignment on some models.
+
 Version 0.9.0:
 	Nov 04th 2022
 	- Released 3 EMU's (CP 3500 with 2 liveries and Fertagus 3500).

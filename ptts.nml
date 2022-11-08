@@ -39,7 +39,7 @@ spriteset (set_alfa1_rear_lighted,  "gfx/alfa1.png") { tmpl_vehicle_8_views(1, 1
 spriteset (set_alfa1_front,         "gfx/alfa1.png") { tmpl_vehicle_8_views(2, 0) }
 spriteset (set_alfa1_rear,          "gfx/alfa1.png") { tmpl_vehicle_8_views(3, 1) }
 spriteset (set_alfa1_middle,        "gfx/alfa1.png") { tmpl_vehicle_4_views(4)    }
-spriteset (set_alfa1_purchase,      "gfx/alfa1.png") { tmpl_vehicle_single(5, 53, 14, -25, -10) }
+spriteset (set_alfa1_purchase,      "gfx/alfa1.png") { tmpl_vehicle_single(5, 72, 17, -25, -10) }
 spriteset (set_alfa1_invisible,     "gfx/alfa1.png") { tmpl_vehicle_single(6,  1,  1,   0,   0) }
 
 switch(FEAT_TRAINS, SELF, sw_alfa1_graphics, position_in_consist % 6) {
@@ -114,7 +114,7 @@ spriteset (set_alfa2_rear_lighted,  "gfx/alfa2.png") { tmpl_vehicle_8_views(1, 1
 spriteset (set_alfa2_front,         "gfx/alfa2.png") { tmpl_vehicle_8_views(2, 0) }
 spriteset (set_alfa2_rear,          "gfx/alfa2.png") { tmpl_vehicle_8_views(3, 1) }
 spriteset (set_alfa2_middle,        "gfx/alfa2.png") { tmpl_vehicle_4_views(4)    }
-spriteset (set_alfa2_purchase,      "gfx/alfa2.png") { tmpl_vehicle_single(5, 53, 14, -25, -10) }
+spriteset (set_alfa2_purchase,      "gfx/alfa2.png") { tmpl_vehicle_single(5, 72, 17, -25, -10) }
 spriteset (set_alfa2_invisible,     "gfx/alfa2.png") { tmpl_vehicle_single(6,  1,  1,   0,   0) }
 
 switch(FEAT_TRAINS, SELF, sw_alfa2_graphics, position_in_consist % 6) {
@@ -188,7 +188,7 @@ spriteset (set_3400_rear_lighted,  "gfx/3400.png") { tmpl_vehicle_8_views(1, 1) 
 spriteset (set_3400_front,         "gfx/3400.png") { tmpl_vehicle_8_views(2, 0) }
 spriteset (set_3400_rear,          "gfx/3400.png") { tmpl_vehicle_8_views(3, 1) }
 spriteset (set_3400_middle,        "gfx/3400.png") { tmpl_vehicle_4_views(4)    }
-spriteset (set_3400_purchase,      "gfx/3400.png") { tmpl_vehicle_single(5, 53, 14, -25, -10) }
+spriteset (set_3400_purchase,      "gfx/3400.png") { tmpl_vehicle_single(5, 72, 17, -25, -10) }
 spriteset (set_3400_invisible,     "gfx/3400.png") { tmpl_vehicle_single(6,  1,  1,   0,   0) }
 
 switch(FEAT_TRAINS, SELF, sw_3400_graphics, position_in_consist % 4) {
@@ -265,7 +265,7 @@ spriteset (set_5600_rear_lighted,  "gfx/5600.png") { tmpl_vehicle_8_views(1, 1) 
 spriteset (set_5600_front,         "gfx/5600.png") { tmpl_vehicle_8_views(2, 0) }
 spriteset (set_5600_rear,          "gfx/5600.png") { tmpl_vehicle_8_views(3, 1) }
 spriteset (set_5600_middle,        "gfx/5600.png") { tmpl_vehicle_4_views(4)    }
-spriteset (set_5600_purchase,      "gfx/5600.png") { tmpl_vehicle_single(5, 53, 14, -25, -10) }
+spriteset (set_5600_purchase,      "gfx/5600.png") { tmpl_vehicle_single(5, 72, 17, -25, -10) }
 spriteset (set_5600_invisible,     "gfx/5600.png") { tmpl_vehicle_single(6,  1,  1,   0,   0) }
 
 //switch(FEAT_TRAINS, SELF, sw_5600_graphics, position_in_consist % 1) {
@@ -337,7 +337,7 @@ spriteset (set_med56_rear_lighted,  "gfx/med56.png") { tmpl_vehicle_8_views(1, 1
 spriteset (set_med56_front,         "gfx/med56.png") { tmpl_vehicle_8_views(2, 0) }
 spriteset (set_med56_rear,          "gfx/med56.png") { tmpl_vehicle_8_views(3, 1) }
 spriteset (set_med56_middle,        "gfx/med56.png") { tmpl_vehicle_4_views(4)    }
-spriteset (set_med56_purchase,      "gfx/med56.png") { tmpl_vehicle_single(5, 53, 14, -25, -10) }
+spriteset (set_med56_purchase,      "gfx/med56.png") { tmpl_vehicle_single(5, 72, 17, -25, -10) }
 spriteset (set_med56_invisible,     "gfx/med56.png") { tmpl_vehicle_single(6,  1,  1,   0,   0) }
 
 item(FEAT_TRAINS, item_med56) {
@@ -386,7 +386,7 @@ spriteset (set_ic1_rear_lighted,  "gfx/ic1.png") { tmpl_vehicle_8_views(1, 1) }
 spriteset (set_ic1_front,         "gfx/ic1.png") { tmpl_vehicle_8_views(2, 0) }
 spriteset (set_ic1_rear,          "gfx/ic1.png") { tmpl_vehicle_8_views(3, 1) }
 spriteset (set_ic1_middle,        "gfx/ic1.png") { tmpl_vehicle_4_views(4)    }
-spriteset (set_ic1_purchase,      "gfx/ic1.png") { tmpl_vehicle_single(5, 53, 14, -25, -10) }
+spriteset (set_ic1_purchase,      "gfx/ic1.png") { tmpl_vehicle_single(5, 72, 17, -25, -10) }
 spriteset (set_ic1_invisible,     "gfx/ic1.png") { tmpl_vehicle_single(6,  1,  1,   0,   0) }
 
 //switch(FEAT_TRAINS, SELF, sw_ic1_graphics, position_in_consist % 1) {
@@ -459,7 +459,7 @@ spriteset (set_ic2_rear_lighted,  "gfx/ic2.png") { tmpl_vehicle_8_views(1, 1) }
 spriteset (set_ic2_front,         "gfx/ic2.png") { tmpl_vehicle_8_views(2, 0) }
 spriteset (set_ic2_rear,          "gfx/ic2.png") { tmpl_vehicle_8_views(3, 1) }
 spriteset (set_ic2_middle,        "gfx/ic2.png") { tmpl_vehicle_4_views(4)    }
-spriteset (set_ic2_purchase,      "gfx/ic2.png") { tmpl_vehicle_single(5, 53, 14, -25, -10) }
+spriteset (set_ic2_purchase,      "gfx/ic2.png") { tmpl_vehicle_single(5, 72, 17, -25, -10) }
 spriteset (set_ic2_invisible,     "gfx/ic2.png") { tmpl_vehicle_single(6,  1,  1,   0,   0) }
 
 //switch(FEAT_TRAINS, SELF, sw_ic2_graphics, position_in_consist % 1) {
@@ -533,7 +533,7 @@ spriteset (set_3500old_rear_lighted,  "gfx/3500old.png") { tmpl_vehicle_8_views(
 spriteset (set_3500old_front,         "gfx/3500old.png") { tmpl_vehicle_8_views(2, 0) }
 spriteset (set_3500old_rear,          "gfx/3500old.png") { tmpl_vehicle_8_views(3, 1) }
 spriteset (set_3500old_middle,        "gfx/3500old.png") { tmpl_vehicle_4_views(4)    }
-spriteset (set_3500old_purchase,      "gfx/3500old.png") { tmpl_vehicle_single(5, 53, 14, -25, -10) }
+spriteset (set_3500old_purchase,      "gfx/3500old.png") { tmpl_vehicle_single(5, 72, 17, -25, -10) }
 spriteset (set_3500old_invisible,     "gfx/3500old.png") { tmpl_vehicle_single(6,  1,  1,   0,   0) }
 
 switch(FEAT_TRAINS, SELF, sw_3500old_graphics, position_in_consist % 4) {
@@ -607,7 +607,7 @@ spriteset (set_3500new_rear_lighted,  "gfx/3500new.png") { tmpl_vehicle_8_views(
 spriteset (set_3500new_front,         "gfx/3500new.png") { tmpl_vehicle_8_views(2, 0) }
 spriteset (set_3500new_rear,          "gfx/3500new.png") { tmpl_vehicle_8_views(3, 1) }
 spriteset (set_3500new_middle,        "gfx/3500new.png") { tmpl_vehicle_4_views(4)    }
-spriteset (set_3500new_purchase,      "gfx/3500new.png") { tmpl_vehicle_single(5, 53, 14, -25, -10) }
+spriteset (set_3500new_purchase,      "gfx/3500new.png") { tmpl_vehicle_single(5, 72, 17, -25, -10) }
 spriteset (set_3500new_invisible,     "gfx/3500new.png") { tmpl_vehicle_single(6,  1,  1,   0,   0) }
 
 switch(FEAT_TRAINS, SELF, sw_3500new_graphics, position_in_consist % 4) {
@@ -681,7 +681,7 @@ spriteset (set_fer3500_rear_lighted,  "gfx/fer3500.png") { tmpl_vehicle_8_views(
 spriteset (set_fer3500_front,         "gfx/fer3500.png") { tmpl_vehicle_8_views(2, 0) }
 spriteset (set_fer3500_rear,          "gfx/fer3500.png") { tmpl_vehicle_8_views(3, 1) }
 spriteset (set_fer3500_middle,        "gfx/fer3500.png") { tmpl_vehicle_4_views(4)    }
-spriteset (set_fer3500_purchase,      "gfx/fer3500.png") { tmpl_vehicle_single(5, 53, 14, -25, -10) }
+spriteset (set_fer3500_purchase,      "gfx/fer3500.png") { tmpl_vehicle_single(5, 72, 17, -25, -10) }
 spriteset (set_fer3500_invisible,     "gfx/fer3500.png") { tmpl_vehicle_single(6,  1,  1,   0,   0) }
 
 switch(FEAT_TRAINS, SELF, sw_fer3500_graphics, position_in_consist % 4) {
